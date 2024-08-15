@@ -6,7 +6,7 @@
   "homepage": "./",
   "dependencies": {
     "@babel/core": "7.12.3",
-    "@bundlr-network/client": "^0.5.12",
+    "@bundlr-network/client": "^0.11.17",
     "@chakra-ui/icons": "^1.1.1",
     "@chakra-ui/react": "1.6.12",
     "@emotion/react": "^11.7.0",
@@ -45,7 +45,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-testing-library": "^3.9.2",
     "eslint-webpack-plugin": "^2.5.2",
-    "ethers": "^5.5.3",
+    "ethers": "^6.0.0",
     "file-loader": "6.1.1",
     "framer-motion": "^4.1.17",
     "fs-extra": "^9.0.1",
